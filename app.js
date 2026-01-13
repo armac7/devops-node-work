@@ -1,8 +1,6 @@
 // app.js
 
-// es5 syntax => import express from 'express'
-// es6 syntax => import { name } from 'module-name';
-import { express } from 'express';
+import express from 'express'
 
 const app = express()
 
